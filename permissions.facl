@@ -1,0 +1,7 @@
+# file: var/run/docker.sock
+# owner: root
+# group: docker
+user::rw-
+group::rw-
+other::---
+
